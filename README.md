@@ -8,13 +8,13 @@ This is a simple weather application that allows users to check the current weat
 - Displays temperature, weather conditions, humidity, and wind speed.
 - Uses the OpenWeatherMap API to fetch real-time weather data.
 
-## Installation
+## Website Link
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/agamjot12/weather-app.git
+
    ```
-2. Open `index.html` in your browser.
+   https://agamjot12.github.io/weather-app/
+   ```
+
 
 ## Usage
 
